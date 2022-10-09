@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArcheR1901&theme=tokyonight" alt="ArcheR1901" /></p>
 
-<img src="final.png">
+
