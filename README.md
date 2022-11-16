@@ -15,5 +15,5 @@
 
 <h1>Github Stats</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArcheR1901&show_icons=true&locale=en&theme=tokyonight" alt="ArcheR1901" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ArcheR1901&show_icons=true&locale=en&theme=tokyonight" alt="ArcheR1901" />
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ArcheR1901&theme=tokyonight" alt="ArcheR1901" /></p>
