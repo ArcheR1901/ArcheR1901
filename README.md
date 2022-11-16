@@ -11,7 +11,7 @@
   <img src="https://profile-counter.glitch.me/ArcheR1901/count.svg" />
 </h3>
 
-<br /><br /><br /><br /><br /><br />
+
 
 <h1>Github Stats</h1>
 
